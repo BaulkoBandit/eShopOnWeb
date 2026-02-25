@@ -9,7 +9,7 @@ env:
   LOCATION: australiaeast
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 717e5799-bd49-4cd6-90fa-44fd8dea7dc4
-  WEBAPP-NAME: thebaulkobandit
+  WEBAPP-NAME: baulkobandit
 
 
 jobs:
